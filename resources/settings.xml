@@ -2,7 +2,10 @@
 	<category label="30715">
 		<setting type="lsep" label="30716" />
 		<setting id="metadata" type="bool" label="30717" default="true" />
-		<setting type="lsep" label="32504" />
+        <setting type="lsep" label="32359" />
+        <setting id="providers.lang" type="select" label="32360" values="English|Italian|German|German+English|French|French+English|Polish|Polish+English|Korean|Korean+English|Russian|Russian+English|Spanish|Spanish+English" default="English" />
+        <setting id="scrapers.timeout.1" type="slider" label="32312" default="20" range="10,60" option="int" />
+        <setting type="lsep" label="32504" />
 		<setting label="32505" type="action" option="close" action="RunPlugin(plugin://plugin.video.bennu/?action=urlresolverSettings)" />
 		<setting type="lsep" label="30718" />
 		<setting label="30719" type="action" action="RunPlugin(plugin://plugin.video.bennu/?action=clearCache)" />

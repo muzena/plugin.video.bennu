@@ -139,8 +139,8 @@ elif action == 'trailer':
     trailer.trailer().play(name)
 
 elif action == 'clearCache':
-    from resources.lib.modules import cache
-    cache.clear()
+    from resources.lib.indexers import navigator
+    navigator.navigator().clearCache()
 
 elif action == 'radios':
     from resources.lib.indexers import phradios

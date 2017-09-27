@@ -138,6 +138,26 @@ msgctxt "#30500"
 msgid "[I]Next Page[/I]"
 msgstr ""
 
+msgctxt "#32056"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "#32057"
+msgid "Process Complete"
+msgstr ""
+
+msgctxt "#32312"
+msgid "Providers Timeout"
+msgstr ""
+
+msgctxt "#32359"
+msgid "Scraper Settings"
+msgstr ""
+
+msgctxt "#32360"
+msgid "Providers Language"
+msgstr ""
+
 msgctxt "#32404"
 msgid "Time elapsed: %s seconds"
 msgstr ""
