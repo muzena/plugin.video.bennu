@@ -46,6 +46,14 @@ msgctxt "#30708"
 msgid "Information"
 msgstr ""
 
+msgctxt "#30709"
+msgid "Developer"
+msgstr ""
+
+msgctxt "#30710"
+msgid "Enable Logging"
+msgstr ""
+
 msgctxt "#30711"
 msgid "Set Movies view"
 msgstr ""
@@ -126,6 +134,22 @@ msgctxt "#30731"
 msgid "Please wait..."
 msgstr ""
 
+msgctxt "#30733"
+msgid "Clear meta..."
+msgstr ""
+
+msgctxt "#30734"
+msgid "Clear providers..."
+msgstr ""
+
+msgctxt "#30735"
+msgid "Clear all..."
+msgstr ""
+
+msgctxt "#30736"
+msgid "Notification on launch"
+msgstr ""
+
 msgctxt "#30401"
 msgid "Are you sure?"
 msgstr ""
@@ -146,8 +170,72 @@ msgctxt "#32057"
 msgid "Process Complete"
 msgstr ""
 
+msgctxt "#32301"
+msgid "Enabled"
+msgstr ""
+
+msgctxt "#32302"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "#32303"
+msgid "User"
+msgstr ""
+
+msgctxt "#32304"
+msgid "Email"
+msgstr ""
+
+msgctxt "#32305"
+msgid "ID"
+msgstr ""
+
+msgctxt "#32306"
+msgid "Authorization..."
+msgstr ""
+
+msgctxt "#32307"
+msgid "Password"
+msgstr ""
+
+msgctxt "#32308"
+msgid "PIN"
+msgstr ""
+
+msgctxt "#32309"
+msgid "API"
+msgstr ""
+
 msgctxt "#32312"
 msgid "Providers Timeout"
+msgstr ""
+
+msgctxt "#32335"
+msgid "Progress Dialog"
+msgstr ""
+
+msgctxt "#32336"
+msgid "Foreground"
+msgstr ""
+
+msgctxt "#32337"
+msgid "Background"
+msgstr ""
+
+msgctxt "#32341"
+msgid "Hosters with captchas"
+msgstr ""
+
+msgctxt "#32342"
+msgid "Sort by Provider"
+msgstr ""
+
+msgctxt "#32345"
+msgid "Providers"
+msgstr ""
+
+msgctxt "#32346"
+msgid "Accounts"
 msgstr ""
 
 msgctxt "#32359"
@@ -156,6 +244,10 @@ msgstr ""
 
 msgctxt "#32360"
 msgid "Providers Language"
+msgstr ""
+
+msgctxt "#32363"
+msgid "Show HEVC Sources"
 msgstr ""
 
 msgctxt "#32404"
@@ -204,4 +296,13 @@ msgstr ""
 
 msgctxt "#32509"
 msgid "Password"
+msgstr ""
+
+msgctxt "#32581"
+msgid "Results Limit"
+msgstr ""
+
+
+msgctxt "#32582"
+msgid "Enable service notification"
 msgstr ""
