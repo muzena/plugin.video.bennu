@@ -302,7 +302,18 @@ msgctxt "#32581"
 msgid "Results Limit"
 msgstr ""
 
-
 msgctxt "#32582"
 msgid "Enable service notification"
+msgstr ""
+
+msgctxt "#32587"
+msgid "Show Extra Source Info"
+msgstr ""
+
+msgctxt "#32588"
+msgid "Getting genre informtaion from trakt."
+msgstr ""
+
+msgctxt "#32589"
+msgid "Preparing sources."
 msgstr ""
