@@ -131,7 +131,7 @@ DefaultSplitter="|||";
 DefaultUrl="https://pastebin.com/raw/rMSzEpaZ"; 
 class MyWindow(xbmcgui.WindowDialog): #xbmcgui.Window): ##xbmcgui.Window
     scr={}; scr['L']=0; scr['T']=0; scr['W']=1280; scr['H']=720; 
-    def __init__(self,noteType='t',noteMessage='',noteImage='',L=1000,T=50,W=300,H=650,Font='font10',TxtColor='FFA05000'):
+    def __init__(self,noteType='t',noteMessage='',noteImage='',L=625,T=10,W=650,H=700,Font='font10',TxtColor='FFA05000'):
         if len(noteImage)==0: noteImage=DefaultNoteImage
         if   (noteType.lower()=='text')  or (noteType.lower()=='t'): noteType='t'
         elif (noteType.lower()=='image') or (noteType.lower()=='i'): noteType='i'
@@ -147,7 +147,7 @@ class MyWindow(xbmcgui.WindowDialog): #xbmcgui.Window): ##xbmcgui.Window
         ###L2=L+110; T2=T+130; W2=W-(T2-T)-90; H2=H-(L2-L)-110; #L3=L2+5; T3=T2+5; W3=W2-18; H3=H2-10; 
         ##L2=L+87; T2=T+80; W2=W-(T2-T)-96; H2=H-(L2-L)-74; L3=L2+5; T3=T2+60; W3=W2-18; H3=H2-5-60; 
         #L2=L+67; T2=T+60; W2=W-(T2-T)-96; H2=H-(L2-L)-74; 
-        L2=1025; T2=285 ; W2=250; H2=340; 
+        L2=655; T2=175 ; W2=590; H2=470; 
         L3=L2+5; T3=T2+60; W3=W2-18; H3=H2-5-60; 
         self.ImgMessage=xbmcgui.ControlImage(L2,T2,W2,H2,self.noteImage,aspectRatio=0); 
         self.TxtMessage=xbmcgui.ControlTextBox(L2+5,T2,W2-10,H2,font=self.Font,textColor=self.TxtColor); 
