@@ -16,6 +16,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Bennu</summary>
 		<description lang="en">We Rise From The Ashes</description>
+		<description lang="hr">Podigli smo se iz pepela</description>
 		<platform>all</platform>
 		<forum></forum>
 		<website></website>

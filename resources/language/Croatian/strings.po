@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bennu\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2017-10-09 19:32+0200\n"
+"PO-Revision-Date: 2017-10-14 15:44+0200\n"
 "Language-Team: Croatian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -306,3 +306,59 @@ msgstr "Ograničenje rezultata"
 msgctxt "#32582"
 msgid "Enable service notification"
 msgstr "Omogući obavijesti usluga"
+
+msgctxt "#32587"
+msgid "Show Extra Source Info"
+msgstr "Prikaži dodatne informacije izvora"
+
+msgctxt "#32588"
+msgid "Getting genre informtaion from trakt."
+msgstr "Dobivanje informacija žanra sa trakta."
+
+msgctxt "#32589"
+msgid "Preparing sources."
+msgstr "Pripremanje izvora."
+
+msgctxt "#32590"
+msgid "Premium Source Identifier Color"
+msgstr "Boja identifikatora Premium izvora"
+
+msgctxt "#32591"
+msgid "Blue"
+msgstr "Plava"
+
+msgctxt "#32592"
+msgid "Red"
+msgstr "Crvena"
+
+msgctxt "#32593"
+msgid "Yellow"
+msgstr "Žuta"
+
+msgctxt "#32594"
+msgid "Deep Pink"
+msgstr "Ružičasta"
+
+msgctxt "#32595"
+msgid "Cyan"
+msgstr "Modra"
+
+msgctxt "#32596"
+msgid "Lawn Green"
+msgstr "Zelena"
+
+msgctxt "#32597"
+msgid "Gold"
+msgstr "Zlatna"
+
+msgctxt "#32598"
+msgid "Magenta"
+msgstr "Ljubičasta"
+
+msgctxt "#32599"
+msgid "Yellow Green"
+msgstr "Žuto zelena"
+
+msgctxt "#32600"
+msgid "No Color"
+msgstr "Bez boje"
