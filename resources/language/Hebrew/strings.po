@@ -3,9 +3,9 @@
 # Addon Provider: bennu
 msgid ""
 msgstr ""
-"Project-Id-Version: bennu\n"
+"Project-Id-Version: Bennu\n"
 "POT-Creation-Date: 2017-10-09 20:15+ZONE\n"
-"PO-Revision-Date: 2017-10-09 20:15+0300\n"
+"PO-Revision-Date: 2017-10-15 15:45+0300\n"
 "Last-Translator: A. Dambledore\n"
 "Language-Team: Eng2Heb\n"
 "Language: he_IL\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
+"X-Generator: Poedit 2.0.4\n"
 
 msgctxt "#30701"
 msgid "Settings"
@@ -306,3 +306,59 @@ msgstr "מגבלת תוצאות"
 msgctxt "#32582"
 msgid "Enable service notification"
 msgstr "אפשר התראת שירות"
+
+msgctxt "#32587"
+msgid "Show Extra Source Info"
+msgstr "הצג פרטי מקור נוסף"
+
+msgctxt "#32588"
+msgid "Getting genre informtaion from trakt."
+msgstr "מקבל מידע על סגנון מטראקט."
+
+msgctxt "#32589"
+msgid "Preparing sources."
+msgstr "מכין מקורות."
+
+msgctxt "#32590"
+msgid "Premium Source Identifier Color"
+msgstr "מזהה צבע של מקור פרמיום"
+
+msgctxt "#32591"
+msgid "Blue"
+msgstr "כחול"
+
+msgctxt "#32592"
+msgid "Red"
+msgstr "אדום"
+
+msgctxt "#32593"
+msgid "Yellow"
+msgstr "צהוב"
+
+msgctxt "#32594"
+msgid "Deep Pink"
+msgstr "ורוד עמוק"
+
+msgctxt "#32595"
+msgid "Cyan"
+msgstr "ציאן"
+
+msgctxt "#32596"
+msgid "Lawn Green"
+msgstr "ירוק דשא"
+
+msgctxt "#32597"
+msgid "Gold"
+msgstr "זהב"
+
+msgctxt "#32598"
+msgid "Magenta"
+msgstr "מג'נטה"
+
+msgctxt "#32599"
+msgid "Yellow Green"
+msgstr "צהוב ירוק"
+
+msgctxt "#32600"
+msgid "No Color"
+msgstr "ללא צבע"
