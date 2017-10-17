@@ -315,49 +315,49 @@ msgid "Getting genre informtaion from trakt."
 msgstr ""
 
 msgctxt "#32589"
-msgid "Preparing sources."
-msgstr ""
-
-msgctxt "#32590"
-msgid "Premium Source Identifier Color"
-msgstr ""
-
-msgctxt "#32591"
 msgid "Blue"
 msgstr ""
 
-msgctxt "#32592"
+msgctxt "#32590"
 msgid "Red"
 msgstr ""
 
-msgctxt "#32593"
+msgctxt "#32591"
 msgid "Yellow"
 msgstr ""
 
-msgctxt "#32594"
+msgctxt "#32592"
 msgid "Deep Pink"
 msgstr ""
 
-msgctxt "#32595"
+msgctxt "#32593"
 msgid "Cyan"
 msgstr ""
 
-msgctxt "#32596"
+msgctxt "#32594"
 msgid "Lawn Green"
 msgstr ""
 
-msgctxt "#32597"
+msgctxt "#32595"
 msgid "Gold"
 msgstr ""
 
-msgctxt "#32598"
+msgctxt "#32596"
 msgid "Magenta"
 msgstr ""
 
-msgctxt "#32599"
+msgctxt "#32597"
 msgid "Yellow Green"
 msgstr ""
 
-msgctxt "#32600"
+msgctxt "#32598"
 msgid "No Color"
+msgstr ""
+
+msgctxt "#32599"
+msgid "Getting genre information from Trakt"
+msgstr ""
+
+msgctxt "#32600"
+msgid "Preparing sources"
 msgstr ""
